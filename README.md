@@ -69,7 +69,7 @@ cd path/to/folder
 
 ## Previews
 
-<img src="http://image.prntscr.com/image/2aec3046ad6d4a5f8b556048909c027b.jpeg" width=60%>
+<img src="http://image.prntscr.com/image/2aec3046ad6d4a5f8b556048909c027b.jpeg" width=100%>
 <br><br><br><br>
 
 ## Thanks
