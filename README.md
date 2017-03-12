@@ -10,7 +10,7 @@
 
 ## Basic Overview
 
-On adiphy you can make money by reading news articles. The site was build around September 2016 newly but total legit, some of their advertiser are popular site like BBC, Reuters, The Score and Politi.co. The adiphy bot enables a user to earn money without actually reading the news articles. Low-resource consuming and it supports multiple plaforms!
+On adiphy you can make money by reading news articles. The site was build around September 2016 newly but total legit. The adiphy bot enables a user to earn money without actually reading the news articles. Low-resource consuming and it supports multiple plaforms!
 
 <br>
 
