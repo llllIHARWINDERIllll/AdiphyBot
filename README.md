@@ -26,7 +26,10 @@ Enter the following command to start the bot:
 ```java
 java -jar adiphy.jar
 ```
-4 Enter your CAKEPHP cookie into the bot and enjoy!
+
+4 Choose if you want to use a HTTP Proxy, if yes enter the proxy in format 127.0.0.1:6969!
+
+5 Enter your CAKEPHP cookie into the bot and enjoy!
 
 <br>
 
@@ -69,10 +72,12 @@ cd path/to/folder
 
 ## Previews
 
-<img src="http://image.prntscr.com/image/2aec3046ad6d4a5f8b556048909c027b.jpeg" width=90%>
+<img src="http://image.prntscr.com/image/3b17170055a04de595cebe0066fca6fe.jpeg" width=90%>
 <br><br><br><br>
 
 ## Thanks
+
+<b>Please star the repository and follow me to be the first one to know more about my new creations! ʕ•ᴥ•ʔ</b>
 
 **llllIHARWINDERIllll** © 2017+, Released under the [MIT License].<br>
 Authored and maintained by llllIHARWINDERIllll.
