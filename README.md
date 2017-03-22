@@ -77,7 +77,7 @@ cd path/to/folder
 
 ## Thanks
 
-<b>Please star the repository and follow me to be the first one to know more about my new creations! ʕ•ᴥ•ʔ</b>
+<b>Please star this repository and follow me to be the first one to know more about my new creations! ʕ•ᴥ•ʔ</b>
 
 **llllIHARWINDERIllll** © 2017+, Released under the [MIT License].<br>
 Authored and maintained by llllIHARWINDERIllll.
